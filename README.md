@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Mai TRAN, i'm based in Paris, France.
 - 💻 My favourite tools are Python for mass data analysis and PowerBI for visualization.
 - 💼 I switched from a business (marketing) major to a technology major.
-- 🌱 I’m interested in Machine Learning and Data Engineer.
-- 💞️ I’m looking for a job in Tech as a Data Analyst.
-- 📫 Reach me here: tran.pmpmai@gmail.com
+- 🌱 I’m interested in Machine Learning and Data Engineering.
+- 💞️ I’m looking for a Data Analyst job.
+- 📫 Reach me here: ves.tranmai@gmail.com
 - 👀 Visit my portfolio on Streamlit: https://appmrs-huawsxzmiwinwtcpvomhrs.streamlit.app/
 - 😄 My hobby: Traveling, cooking, hiking and yoga-ing.
 
