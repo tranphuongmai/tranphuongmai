@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mai TRAN, Vietnamese living in Paris, France.
+- 👋 Hi, I’m Mai TRAN, i'm based in Paris, France.
 - 💻 My favourite tools are Python for mass data analysis and PowerBI for visualization.
 - 💼 I switched from a business (marketing) major to a technology major.
 - 🌱 I’m interested in Machine Learning and Data Engineer.
