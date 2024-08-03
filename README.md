@@ -4,7 +4,9 @@
 - 🌱 I’m interested in Machine Learning and Data Engineering.
 - 💞️ I’m looking for a Data Analyst job.
 - 📫 Reach me here: ves.tranmai@gmail.com
-- 👀 Visit my portfolio on Streamlit: https://appmrs-huawsxzmiwinwtcpvomhrs.streamlit.app/
+- 👀 Visit my projects on Streamlit:
+  **Movie Recommendation system:** https://appmrs-huawsxzmiwinwtcpvomhrs.streamlit.app/
+  **ENEDIS - Electricity Consupmtion Analysis and Prediction:** https://enedis-consumption-prediction.streamlit.app/
 - 😄 My hobby: Traveling, cooking, hiking and yoga-ing.
 
 <!---
