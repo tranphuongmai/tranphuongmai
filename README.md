@@ -7,6 +7,7 @@
 - 👀 Visit my projects on Streamlit:
   
   **Movie Recommendation system:** https://appmrs-huawsxzmiwinwtcpvomhrs.streamlit.app/
+  
   **ENEDIS - Electricity Consupmtion Analysis and Prediction:** https://enedis-consumption-prediction.streamlit.app/
 - 😄 My hobby: Traveling, cooking, hiking and yoga-ing.
 
