@@ -1,5 +1,7 @@
 - 👋 Hi, I’m Mai TRAN, i'm based in Paris, France.
 - 💻 My favourite tools are Python for mass data analysis and PowerBI for visualization.
+- 👩‍💻 My tech skills: Big data preprocessing, Python, SQL, ML, NLP, PowerBI/DAX, Streamlit, Dataiku, Dash.
+- 💪 My soft skills: Analytical and structured mind, commercial and marketing sensitivity.
 - 💼 I switched from a business (marketing) major to a technology major.
 - 🌱 I’m interested in Machine Learning and Data Engineering.
 - 💞️ I’m looking for a Data Analyst job.
