@@ -5,7 +5,7 @@
 - 💞️ I’m looking for a Data Analyst job.
 - 📫 Reach me here: ves.tranmai@gmail.com
 - 👀 Visit my projects on Streamlit:
-  [**ENEDIS - Electricity Consupmtion Analysis and Prediction**](https://enedis-consumption-prediction.streamlit.app/) Or [Github]([https://github.com/tranphuongmai/app_mrs](https://github.com/tranphuongmai/enedis-consumption-prediction))
+  [**ENEDIS - Electricity Consupmtion Analysis and Prediction**](https://enedis-consumption-prediction.streamlit.app/) Or [Github]([https://github.com/tranphuongmai/app_mrs](https://github.com/tranphuongmai/enedis-consumption-prediction)
   
   [**Movie Recommendation system**](https://appmrs-huawsxzmiwinwtcpvomhrs.streamlit.app/) Or [Github](https://github.com/tranphuongmai/app_mrs)
 
