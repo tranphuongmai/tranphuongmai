@@ -6,11 +6,11 @@
 - 📫 Reach me here: ves.tranmai@gmail.com
 - 👀 Visit my projects on Streamlit:
   
-  [**ENEDIS - Electricity Consupmtion Analysis and Prediction**](https://enedis-consumption-prediction.streamlit.app/) Or [Github]([https://github.com/tranphuongmai/app_mrs](https://github.com/tranphuongmai/enedis-consumption-prediction)
+  [**ENEDIS - Electricity Consupmtion Analysis and Prediction**](https://enedis-consumption-prediction.streamlit.app/) Or [Repo on Github](https://github.com/tranphuongmai/enedis-consumption-prediction)
   
-  [**Movie Recommendation system**](https://appmrs-huawsxzmiwinwtcpvomhrs.streamlit.app/) Or [Github](https://github.com/tranphuongmai/app_mrs)
+  [**Movie Recommendation system**](https://appmrs-huawsxzmiwinwtcpvomhrs.streamlit.app/) Or [Repo on Github](https://github.com/tranphuongmai/app_mrs)
 
-  [**Trip Navigator**](https://trip-navigator.streamlit.app/) Or [Github](https://github.com/tranphuongmai/trip_navigator)
+  [**Trip Navigator**](https://trip-navigator.streamlit.app/) Or [Repo on Github](https://github.com/tranphuongmai/trip_navigator)
   
   
 - 😄 My hobby: Traveling, cooking, hiking and yoga-ing.
