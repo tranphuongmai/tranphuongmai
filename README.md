@@ -10,7 +10,7 @@
   
   [**ENEDIS - Electricity Consupmtion Analysis and Prediction**](https://enedis-consumption-prediction.streamlit.app/) Or [Repo on Github](https://github.com/tranphuongmai/enedis-consumption-prediction)
   
-  [**Movie Recommendation system**](https://appmrs-huawsxzmiwinwtcpvomhrs.streamlit.app/) Or [Repo on Github](https://github.com/tranphuongmai/Python_Sklearn_Pandas)
+  [**Movie Recommendation system**](https://appmrs-huawsxzmiwinwtcpvomhrs.streamlit.app/) Or [Repo on Github](https://github.com/tranphuongmai/app_mrs)
 
   [**Trip Navigator**](https://trip-navigator.streamlit.app/) Or [Repo on Github](https://github.com/tranphuongmai/trip_navigator)
   
